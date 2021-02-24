@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ochilliam/subrepo-opensource.git
+	branch = main
+	commit = 2c9dda788a9e098d09d12539628c86aaa78e699a
+	parent = c410195eaa8e68f32e3a796f08cef49cd6839299
+	method = merge
+	cmdver = 0.4.3
